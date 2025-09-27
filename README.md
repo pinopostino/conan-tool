@@ -154,4 +154,3 @@ python main.py samples_compiled/test_sample.exe
 **Preferibile avviare il file .bat in automatico**
 Mediante il file .bat, si avvierà l'applicazione in modo automatico
 
-La configurazione è ora completa e CONAN è pronto per l'analisi di file binari!
